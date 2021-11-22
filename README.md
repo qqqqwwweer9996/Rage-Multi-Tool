@@ -56,7 +56,7 @@ Script Informations:
 
 ## Errors/Fixes
 
-pyinstaller is not recognized as an external command
+>> NOTE: pyinstaller is not recognized as an external command!
 > open a cmd and type `pip install pyinstaller` or make sure [python](https://www.python.org/downloads/) is added to [PATH](https://datatofish.com/add-python-to-windows-path/)
 
 > You probably have python 3.10 which has some new tings so downgrade to [python 3.9](https://www.python.org/downloads/release/python-397/)
