@@ -6,7 +6,7 @@ This project was created only for good purposes and personal use.
 By using Rage, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
 ## Features
-- [x] - [Self Bot] - A simple SelfBot for your Account `buggy`
+- [ ] - [Self Bot] - A simple SelfBot for your Account `buggy`
 - [x] - [RAT Tool] - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord.
 - [x] - [Raid Tool] - Easily raid a discord server with many Discord Tokens.
 - [x] - [Server Nuker]- Easily nuke a discord server with a BOT Discord.
@@ -16,7 +16,7 @@ By using Rage, you agree that you hold responsibility and accountability of any 
 - [x] - [File Grabber] - Creates a TokenGrabber.py file to get a user's token and allows you to convert it to an Exe.
 - [x] - [Image Grabber] - Creates a Image to get a user's token.
 - [x] - [Token Qr Generator] - Generate a "Fake Nitro QR Code". If a user scans it, you get his token.
-- [x] - [IP Grabber] - Grab any user IP.
+- [ ] - [IP Grabber] - Grab any user IP.
 - [x] - [Account Nuker] - Quit the servers, Delete friends and DMs, Create 100 servers and change the settings of a user. 
 - [x] - [Disable Account] - Disable a Discord Account whit his Token.
 - [x] - [Token Informations] - Get all the information of a Discord User with his Token.
