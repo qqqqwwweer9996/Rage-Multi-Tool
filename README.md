@@ -1,6 +1,6 @@
 ## Disclaimer:
 
-|††#7777 was made for Educational purposes|
+|`Rage Multi Tool was made for Educational Purposes`|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
 By using Rage, you agree that you hold responsibility and accountability of any consequences caused by your actions.
