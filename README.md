@@ -14,7 +14,7 @@ By using Rage, you agree that you hold responsibility and accountability of any 
 - [x] - [Massive Report] - Loop that reports the message of a user (it can ban his account).
 - [x] - [WebHooks Spammer] - Spam the message you want through a WebHooks.
 - [x] - [File Grabber] - Creates a TokenGrabber.py file to get a user's token and allows you to convert it to an Exe.
-- [x] - [Image Grabber]() - Creates a Image to get a user's token.
+- [x] - [Image Grabber] - Creates a Image to get a user's token.
 - [x] - [Token Qr Generator] - Generate a "Fake Nitro QR Code". If a user scans it, you get his token.
 - [x] - [IP Grabber] - Grab any user IP.
 - [x] - [Account Nuker] - Quit the servers, Delete friends and DMs, Create 100 servers and change the settings of a user. 
