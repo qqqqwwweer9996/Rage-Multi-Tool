@@ -18,7 +18,7 @@ By using Rage, you agree that you hold responsibility and accountability of any 
 - [x] - [File Grabber] - Creates a TokenGrabber.py file to get a user's token and allows you to convert it to an Exe.
 - [x] - [Image Grabber] - Creates a Image to get a user's token.
 - [x] - [Token Qr Generator] - Generate a "Fake Nitro QR Code". If a user scans it, you get his token.
-- [ ] - [IP Grabber] - Grab any user IP.
+- [ ] - [IP Grabber] - Grab any user IP. `buggy`
 - [x] - [Account Nuker] - Quit the servers, Delete friends and DMs, Create 100 servers and change the settings of a user. 
 - [x] - [Disable Account] - Disable a Discord Account whit his Token.
 - [x] - [Token Informations] - Get all the information of a Discord User with his Token.
