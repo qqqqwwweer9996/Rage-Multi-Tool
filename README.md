@@ -5,8 +5,6 @@
 This project was created only for good purposes and personal use.
 By using Rage, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
-## SHOWCASE VIDEO: https://www.youtube.com/watch?v=S0XH_AU1ulE
-
 ## Features
 - [ ] - [Self Bot] - A simple SelfBot for your Account `buggy`
 - [x] - [RAT Tool] - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord.
